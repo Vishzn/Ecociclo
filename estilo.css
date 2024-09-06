@@ -1,0 +1,136 @@
+@font-face {
+    font-family: "lexend" ;
+    src: url(ECOCICLO-main/font/Lexend-VariableFont_wght.ttf);
+}
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+header{
+    background-image: url(ECOCICLO-main/img/fundo.png);
+    background-size: cover;
+    height: 500px;
+}
+.titulo{
+    font-family: "lexend";
+    font-size: 80px;
+    font-weight: 500;
+}
+.subtitulo {
+    font-family: "lexend";
+    font-size: 30px;
+}
+body{   
+    background-color: #598C38;
+}
+.imagem{
+    height: 300px;
+}
+.divisao{
+    background-color: #F4F3F3;
+    width: 320px;
+    border-radius: 8px;
+    margin: 15px;
+}
+.display{
+    display: flex;
+    justify-content: center;
+    height: 480px;
+}
+.texto{
+    font-family: "lexend";
+    font-size: 14px;
+    padding: 5px;
+    text-align: justify;
+}
+.nome{
+    font-family: "lexend";
+    font-size: 40px;
+    color: #F4F3F3;
+    font-weight: 500;
+}
+.redes{
+    color: #F4F3F3;
+    font-family: "lexend";
+    font-weight: 300;
+    font-size: 24px;
+}
+.sobre{
+    background-color: #F4F3F3;
+    height: 500px;
+}
+.sobre .nome{
+    font-family: "lexend";
+    color: black;
+}
+h3{
+    color: #598C38;
+    font-size: 40px;
+    font-family: "lexend";
+}
+.textoSobre{
+    font-size:23px;
+    font-family: "lexend";
+}
+.divSobre{
+    font-size: 26px;
+}
+section,footer{
+     padding: 0px 150px;
+}
+.sobre {
+    padding:50px 150px;
+}
+.titulo{
+    padding: 150px 0px 0px 150px;
+}
+.subtitulo
+{
+    padding: 0px 0px 0px 150px;
+}
+.Nosso{
+  background-color: #598C38;
+  height: 1800px;
+}
+.impacto{
+background-color: #476C30;
+}
+.lixeira{
+    width: 300px;
+    height: 200px;
+}
+.name{
+    color: #F4F3F3;
+    font-size: 39px;
+    font-family: "lexend";
+}
+.divimpac{
+    display: flex;
+    flex-direction: row;
+    font-size: 45px;
+}
+.textoimp{
+    color: #F4F3F3;
+    font-size: 20px;
+    font-family: "lexend";
+}
+.textolado{
+    color: #F4F3F3;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+footer{
+    margin-top: 30px;
+    background-color: #598C38;
+    margin-bottom: 20px;
+    
+}
+.impi{
+    padding-bottom: 20px;
+}
+
+
+
+
